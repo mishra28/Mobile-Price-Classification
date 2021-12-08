@@ -1,2 +1,2 @@
-# BIG MART SALES:Item_Outlet_Sales Prediction
-Prediction of item outlet sales based on training data on the basis of 8k samples and making predictions on 6k samples.
+# Mobile Price Classification
+A classification problem in which data had to be trained on 2000 models of mobiles based on 20 features each and classify 1000 test models into classes of 1,2,3,4.Implemented Numpy,Pandas and Matplotlib and attained concepts like probability , statistics ,data cleaning ,data analysis , familiarized with training and testing data , and functioning of algorithms including linear regression.
